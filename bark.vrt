@@ -1,0 +1,167 @@
+<VRTDataset rasterXSize="1354" rasterYSize="2030">
+  <VRTRasterBand dataType="UInt16" band="1">
+    <Metadata />
+    <ColorInterp>Gray</ColorInterp>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">HDF4_SDS:UNKNOWN:/rdsi/PRIVATE/scratch/gdalthing/MOD021KM.A2012062.0455.006.2014220083128.hdf:2</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1354" RasterYSize="2030" DataType="UInt16" BlockXSize="1354" BlockYSize="738" />
+      <SrcRect xOff="0" yOff="0" xSize="1354" ySize="2030" />
+      <DstRect xOff="0" yOff="0" xSize="1354" ySize="2030" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="UInt16" band="2">
+    <Metadata />
+    <ColorInterp>Gray</ColorInterp>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">HDF4_SDS:UNKNOWN:/rdsi/PRIVATE/scratch/gdalthing/MOD021KM.A2012062.0455.006.2014220083128.hdf:2</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="1354" RasterYSize="2030" DataType="UInt16" BlockXSize="1354" BlockYSize="738" />
+      <SrcRect xOff="0" yOff="0" xSize="1354" ySize="2030" />
+      <DstRect xOff="0" yOff="0" xSize="1354" ySize="2030" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="UInt16" band="3">
+    <Metadata />
+    <ColorInterp>Gray</ColorInterp>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">HDF4_SDS:UNKNOWN:/rdsi/PRIVATE/scratch/gdalthing/MOD021KM.A2012062.0455.006.2014220083128.hdf:2</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="1354" RasterYSize="2030" DataType="UInt16" BlockXSize="1354" BlockYSize="738" />
+      <SrcRect xOff="0" yOff="0" xSize="1354" ySize="2030" />
+      <DstRect xOff="0" yOff="0" xSize="1354" ySize="2030" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="UInt16" band="4">
+    <Metadata />
+    <ColorInterp>Gray</ColorInterp>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">HDF4_SDS:UNKNOWN:/rdsi/PRIVATE/scratch/gdalthing/MOD021KM.A2012062.0455.006.2014220083128.hdf:2</SourceFilename>
+      <SourceBand>4</SourceBand>
+      <SourceProperties RasterXSize="1354" RasterYSize="2030" DataType="UInt16" BlockXSize="1354" BlockYSize="738" />
+      <SrcRect xOff="0" yOff="0" xSize="1354" ySize="2030" />
+      <DstRect xOff="0" yOff="0" xSize="1354" ySize="2030" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="UInt16" band="5">
+    <Metadata />
+    <ColorInterp>Gray</ColorInterp>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">HDF4_SDS:UNKNOWN:/rdsi/PRIVATE/scratch/gdalthing/MOD021KM.A2012062.0455.006.2014220083128.hdf:2</SourceFilename>
+      <SourceBand>5</SourceBand>
+      <SourceProperties RasterXSize="1354" RasterYSize="2030" DataType="UInt16" BlockXSize="1354" BlockYSize="738" />
+      <SrcRect xOff="0" yOff="0" xSize="1354" ySize="2030" />
+      <DstRect xOff="0" yOff="0" xSize="1354" ySize="2030" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="UInt16" band="6">
+    <Metadata />
+    <ColorInterp>Gray</ColorInterp>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">HDF4_SDS:UNKNOWN:/rdsi/PRIVATE/scratch/gdalthing/MOD021KM.A2012062.0455.006.2014220083128.hdf:2</SourceFilename>
+      <SourceBand>6</SourceBand>
+      <SourceProperties RasterXSize="1354" RasterYSize="2030" DataType="UInt16" BlockXSize="1354" BlockYSize="738" />
+      <SrcRect xOff="0" yOff="0" xSize="1354" ySize="2030" />
+      <DstRect xOff="0" yOff="0" xSize="1354" ySize="2030" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="UInt16" band="7">
+    <Metadata />
+    <ColorInterp>Gray</ColorInterp>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">HDF4_SDS:UNKNOWN:/rdsi/PRIVATE/scratch/gdalthing/MOD021KM.A2012062.0455.006.2014220083128.hdf:2</SourceFilename>
+      <SourceBand>7</SourceBand>
+      <SourceProperties RasterXSize="1354" RasterYSize="2030" DataType="UInt16" BlockXSize="1354" BlockYSize="738" />
+      <SrcRect xOff="0" yOff="0" xSize="1354" ySize="2030" />
+      <DstRect xOff="0" yOff="0" xSize="1354" ySize="2030" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="UInt16" band="8">
+    <Metadata />
+    <ColorInterp>Gray</ColorInterp>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">HDF4_SDS:UNKNOWN:/rdsi/PRIVATE/scratch/gdalthing/MOD021KM.A2012062.0455.006.2014220083128.hdf:2</SourceFilename>
+      <SourceBand>8</SourceBand>
+      <SourceProperties RasterXSize="1354" RasterYSize="2030" DataType="UInt16" BlockXSize="1354" BlockYSize="738" />
+      <SrcRect xOff="0" yOff="0" xSize="1354" ySize="2030" />
+      <DstRect xOff="0" yOff="0" xSize="1354" ySize="2030" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="UInt16" band="9">
+    <Metadata />
+    <ColorInterp>Gray</ColorInterp>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">HDF4_SDS:UNKNOWN:/rdsi/PRIVATE/scratch/gdalthing/MOD021KM.A2012062.0455.006.2014220083128.hdf:2</SourceFilename>
+      <SourceBand>9</SourceBand>
+      <SourceProperties RasterXSize="1354" RasterYSize="2030" DataType="UInt16" BlockXSize="1354" BlockYSize="738" />
+      <SrcRect xOff="0" yOff="0" xSize="1354" ySize="2030" />
+      <DstRect xOff="0" yOff="0" xSize="1354" ySize="2030" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="UInt16" band="10">
+    <Metadata />
+    <ColorInterp>Gray</ColorInterp>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">HDF4_SDS:UNKNOWN:/rdsi/PRIVATE/scratch/gdalthing/MOD021KM.A2012062.0455.006.2014220083128.hdf:2</SourceFilename>
+      <SourceBand>10</SourceBand>
+      <SourceProperties RasterXSize="1354" RasterYSize="2030" DataType="UInt16" BlockXSize="1354" BlockYSize="738" />
+      <SrcRect xOff="0" yOff="0" xSize="1354" ySize="2030" />
+      <DstRect xOff="0" yOff="0" xSize="1354" ySize="2030" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="UInt16" band="11">
+    <Metadata />
+    <ColorInterp>Gray</ColorInterp>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">HDF4_SDS:UNKNOWN:/rdsi/PRIVATE/scratch/gdalthing/MOD021KM.A2012062.0455.006.2014220083128.hdf:2</SourceFilename>
+      <SourceBand>11</SourceBand>
+      <SourceProperties RasterXSize="1354" RasterYSize="2030" DataType="UInt16" BlockXSize="1354" BlockYSize="738" />
+      <SrcRect xOff="0" yOff="0" xSize="1354" ySize="2030" />
+      <DstRect xOff="0" yOff="0" xSize="1354" ySize="2030" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="UInt16" band="12">
+    <Metadata />
+    <ColorInterp>Gray</ColorInterp>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">HDF4_SDS:UNKNOWN:/rdsi/PRIVATE/scratch/gdalthing/MOD021KM.A2012062.0455.006.2014220083128.hdf:2</SourceFilename>
+      <SourceBand>12</SourceBand>
+      <SourceProperties RasterXSize="1354" RasterYSize="2030" DataType="UInt16" BlockXSize="1354" BlockYSize="738" />
+      <SrcRect xOff="0" yOff="0" xSize="1354" ySize="2030" />
+      <DstRect xOff="0" yOff="0" xSize="1354" ySize="2030" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="UInt16" band="13">
+    <Metadata />
+    <ColorInterp>Gray</ColorInterp>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">HDF4_SDS:UNKNOWN:/rdsi/PRIVATE/scratch/gdalthing/MOD021KM.A2012062.0455.006.2014220083128.hdf:2</SourceFilename>
+      <SourceBand>13</SourceBand>
+      <SourceProperties RasterXSize="1354" RasterYSize="2030" DataType="UInt16" BlockXSize="1354" BlockYSize="738" />
+      <SrcRect xOff="0" yOff="0" xSize="1354" ySize="2030" />
+      <DstRect xOff="0" yOff="0" xSize="1354" ySize="2030" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="UInt16" band="14">
+    <Metadata />
+    <ColorInterp>Gray</ColorInterp>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">HDF4_SDS:UNKNOWN:/rdsi/PRIVATE/scratch/gdalthing/MOD021KM.A2012062.0455.006.2014220083128.hdf:2</SourceFilename>
+      <SourceBand>14</SourceBand>
+      <SourceProperties RasterXSize="1354" RasterYSize="2030" DataType="UInt16" BlockXSize="1354" BlockYSize="738" />
+      <SrcRect xOff="0" yOff="0" xSize="1354" ySize="2030" />
+      <DstRect xOff="0" yOff="0" xSize="1354" ySize="2030" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="UInt16" band="15">
+    <Metadata />
+    <ColorInterp>Gray</ColorInterp>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">HDF4_SDS:UNKNOWN:/rdsi/PRIVATE/scratch/gdalthing/MOD021KM.A2012062.0455.006.2014220083128.hdf:2</SourceFilename>
+      <SourceBand>15</SourceBand>
+      <SourceProperties RasterXSize="1354" RasterYSize="2030" DataType="UInt16" BlockXSize="1354" BlockYSize="738" />
+      <SrcRect xOff="0" yOff="0" xSize="1354" ySize="2030" />
+      <DstRect xOff="0" yOff="0" xSize="1354" ySize="2030" />
+    </SimpleSource>
+  </VRTRasterBand>
+</VRTDataset>
